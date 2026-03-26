@@ -1,5 +1,7 @@
 # 💼 HR Attrition Prediction App
 
+# live demo: https://hr-app-pred.streamlit.app/
+
 ## 📌 Overview
 This project is an end-to-end Machine Learning application that predicts whether an employee is likely to leave the company based on various factors such as age, salary, job satisfaction, and work-life balance.
 
