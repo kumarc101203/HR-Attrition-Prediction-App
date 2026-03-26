@@ -1,0 +1,47 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Virtual Environment
+# =========================
+venv/
+env/
+.venv/
+
+# =========================
+# Jupyter / Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# System Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Streamlit cache
+# =========================
+.streamlit/
+
+# =========================
+# Optional: Large files (if needed)
+# =========================
+# Uncomment if you want to ignore dataset
+# HR-Employee-Attrition.csv
