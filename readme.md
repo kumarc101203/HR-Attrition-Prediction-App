@@ -84,6 +84,7 @@ The project includes:
 ---
 
 ## 📂 Project Structure
+```
 ├── app.py # Streamlit UI
 ├── train_model.py # Model training script
 ├── attrition_model.pkl # Trained model
@@ -94,7 +95,7 @@ The project includes:
 └── README.md
 
 ---
-
+```
 ## ⚙️ Installation & Setup
 
 ### 1. Clone Repository
@@ -109,6 +110,7 @@ pip install -r requirements.txt
 Run Application
 streamlit run app.py
 
+```
 💡 Business Insights
 - Employees working overtime have significantly higher attrition
 - Lower salary is linked to higher attrition risk
@@ -124,9 +126,9 @@ This project demonstrates how machine learning can be used to:
 
 
 📌 Future Improvements
-Add more features to UI (Department, JobRole)
-Deploy on cloud (Streamlit Cloud / Render)
-Use advanced models (XGBoost, Neural Networks)
+- Add more features to UI (Department, JobRole)
+- Deploy on cloud (Streamlit Cloud / Render)
+- Use advanced models (XGBoost, Neural Networks)
 
 
 👤 Author
